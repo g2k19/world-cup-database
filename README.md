@@ -1,4 +1,4 @@
-# fcc - World Cup Database Project
+# fCC - "World Cup Database" Project
 
 This is just the repository needed for completing the fcc project. It contains the database file with all the necessary tables created but no data in them + the script file used to fill the data in the tables, as well as the script file with some useful queries.
 
